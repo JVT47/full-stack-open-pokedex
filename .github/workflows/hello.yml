@@ -18,6 +18,6 @@ jobs:
         run: |
           date
         
-      -name: Directory content
+      - name: Directory content
         run: |
           ls -l
